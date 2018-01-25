@@ -8,4 +8,4 @@ I implemented the backend of this project which required:
 
 A screenshot from the application:
 
-![alt text](https://ibb.co/mzJLJb)
+https://ibb.co/mzJLJb
